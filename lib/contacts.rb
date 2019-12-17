@@ -20,3 +20,4 @@ contacts["Freddy Mercury"].each do |key, value|
     delete_if value == "strawberry"
   end
 end
+end
